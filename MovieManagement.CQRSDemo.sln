@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieManagement.API", "MovieManagement.API\MovieManagement.API.csproj", "{2080B97F-53A2-491A-B958-68FB338C0DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieManagement.Library", "MovieManagement.Library\MovieManagement.Library.csproj", "{F5C3E379-98EC-4A09-B901-C95912C20C54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2080B97F-53A2-491A-B958-68FB338C0DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2080B97F-53A2-491A-B958-68FB338C0DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2080B97F-53A2-491A-B958-68FB338C0DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2080B97F-53A2-491A-B958-68FB338C0DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C3E379-98EC-4A09-B901-C95912C20C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C3E379-98EC-4A09-B901-C95912C20C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C3E379-98EC-4A09-B901-C95912C20C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C3E379-98EC-4A09-B901-C95912C20C54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B31B1AB-8565-4D55-A62F-8B3B65FFD215}
+	EndGlobalSection
+EndGlobal
